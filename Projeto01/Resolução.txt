@@ -1,0 +1,10 @@
+Resolução -
+
+1- 	Vou usar uma estrutura de if else, para selecionar o caminho que a variável "continuar" vai fazer.
+
+3 - 	Depois vou levar a variável até função, onde vai ser perguntado ao usuário, os valores necessários para o cálculo da área, e efetuar o mesmo.
+
+4-  	Logo em seguida vou fazer a função exibir o valor do cálculo em return, e encaminhar para a main.
+
+ 5- 	Por fim, vou exibir o resultado na main. 
+
