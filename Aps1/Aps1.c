@@ -60,7 +60,7 @@ int main()
     soma[3] = somar_numeros_recursivo(N - 1, vet_04);
     soma[4] = somar_numeros_recursivo(N - 1, vet_05);
 
-    // Aqui é onde estou amostrando o maior valor.
+    
 
     resultado = retornar_maior_valor(5, soma);
 
